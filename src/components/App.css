@@ -1,0 +1,13 @@
+/* Styles go here */
+
+
+body {
+  background-color: #87d1d8;
+}
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
